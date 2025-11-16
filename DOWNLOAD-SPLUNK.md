@@ -18,9 +18,11 @@ The objective of this task is to help you **install and configure Splunk on a Ka
 
 ### **Step 1: Download Splunk**
 1. Open **Terminal** and download Splunk using `wget`:
-   ```wget -O splunk-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb 
+   ```
+   wget -O splunk-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb    
+   ```
   "https://download.splunk.com/products/splunk/releases/9.3.0/linux/splunk-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb"
-    ```
+
     
 2. Once downloaded, install Splunk:
 ```
@@ -60,4 +62,4 @@ http://<your-server-ip>:8000
 
 
 ## Submission
-
+![image alt](https://github.com/noor-nas24/Spl_LAB_025/blob/ef80df6ccc91a36c2a5d5dd2d1f32b4c43deb7b8/splunk.png)
