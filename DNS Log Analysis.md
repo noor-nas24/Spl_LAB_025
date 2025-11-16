@@ -53,10 +53,10 @@ index="*" | stats count by qtype
 ## Submission
 Submit a screenshot of each of the following:
 - Your SPL query and result for Task 1.
-- !{image alt}(https://github.com/noor-nas24/Spl_LAB_025/blob/591b4f264f85823415171b54627def3b2f6e9a08/Task3.png)
+ ![image alt](https://github.com/noor-nas24/Spl_LAB_025/blob/591b4f264f85823415171b54627def3b2f6e9a08/Task3.png)
   
 - SPL query and result for Task 2.
--  !{image alt}(https://github.com/noor-nas24/Spl_LAB_025/blob/591b4f264f85823415171b54627def3b2f6e9a08/task2.png)
-- 
+   ![image alt](https://github.com/noor-nas24/Spl_LAB_025/blob/591b4f264f85823415171b54627def3b2f6e9a08/task2.png)
+  
 - SPL query and result for Task 3.
- !{image alt}(https://github.com/noor-nas24/Spl_LAB_025/blob/591b4f264f85823415171b54627def3b2f6e9a08/Task3.png)
+ ![image alt](https://github.com/noor-nas24/Spl_LAB_025/blob/591b4f264f85823415171b54627def3b2f6e9a08/Task3.png)
