@@ -15,7 +15,9 @@ In this lab, you will:
 ## Lab Setup
 
 1.**Splunk**: Already installed and accessible.
+
 2.**Data Source**: JSON-formatted Zeek DNS logs.
+
 3.**Log File**: Download the file below and place it in a directory accessible to Splunk for ingestion.
 **[Download sample dns file](https://raw.githubusercontent.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/refs/heads/main/dns_logs.json)**
 
@@ -28,7 +30,7 @@ In this lab, you will:
 3. Set Source type: `json` or create a custom source type `dns`.
 4. Index: Choose `main` or create a new index like `dns_lab`.
 5. Finish the upload and confirm indexing.
-
+6.you can start search `source="" host=" sourcetype="_json" `
 ---
 
 ## Lab Tasks
