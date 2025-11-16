@@ -1,5 +1,5 @@
 # Objective
-"Install and configure Splunk on a Linux system."
+"Install and configure Splunk on a linux system."
 
 ---
 
@@ -7,13 +7,12 @@
 
 ### Download
 
-1.  **Download Splunk**
-    > https://download.splunk.com/products/splunk/releases/9.3.0/linux/splunk-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb
+1. **Download Splunk**
+   > https://download.splunk.com/products/splunk/releases/9.3.0/linux/splunk-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb
 
-2.  **Create a directory**
-    ```bash
-    mkdir -p /opt/splunk/bin
-    ```
+2. **Create a directory**
+   ```bash
+   mkdir -p /opt/splunk/bin
 
 ---
 
